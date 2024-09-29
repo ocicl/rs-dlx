@@ -1,0 +1,10 @@
+* rs-dlx
+
+A Common Lisp implementation of Knuth's Algorithm X using the dancing
+links technique.
+
+|---------+----------------------------------------------------|
+| source  | git:https://github.com/ralph-schleicher/rs-dlx.git |
+| commit  | 0837a71                                            |
+| systems | rs-dlx                                             |
+|---------+----------------------------------------------------|
